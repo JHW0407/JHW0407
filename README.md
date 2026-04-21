@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi there, I'm JHW0407! Ans my real name is Hyowon Jeon(전효원)
+## 👋 Hi there, I'm JHW0407! And my real name is Hyowon Jeon(전효원)
 
 ✨ _Welcome to my GitHub profile_ ✨  
 
